@@ -2,7 +2,7 @@
 
 Im a aspiring **software developer** and **security researcher**.
  
-## ♛ My Skills ,
+## ♛ My Skills 
 - Software Development
 - Web Development
 - App Development
