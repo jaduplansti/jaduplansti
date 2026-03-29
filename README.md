@@ -20,7 +20,7 @@ These are the skills i've learnt so far, to a certain degree.
 
 ---
 
-> An Idiot Admires Complexity WHile A Genius Admires Simplicity.
+> An Idiot Admires Complexity While A Genius Admires Simplicity.
 >
 > If Your Code Barely Seg Faults, Then Your Doing Something Wrong
 
