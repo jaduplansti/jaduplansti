@@ -1,24 +1,26 @@
-# Hi there, I'm jaduplansti 👋
+# 🙏 Wassup, Im Jaduplansti (4A616475706C616E737469)
 
-I'm an aspiring segfault artist and a fan of causing undefined behavior (UB) for fun.
+Im a aspiring **software developer** and **security researcher**.
+ 
+## ♛ My Skills ,
+- Software Development
+- Web Development
+- App Development
+- Game Development
+- Reverse Engineering & Malware Analysis
+- Pen Testing & Exploits
+- Circuits And Electronics (Microcontrollers too!)
+- Digital Forensics
+- Undefined Behavior & Seg Faults
 
-## 🛠️ What I Like
-- Circuits & Electronics
-- Math that makes your brain hurt
-- Pushing the boundaries of compilers (and sometimes breaking them)
-- Making buggy games
-- Not-so-functional compilers and software
+These are the skills i've learnt so far, to a certain degree.
 
-## 💡 What to Expect Here
-Most of the projects in my repositories are unfinished so don’t be surprised if you find experiments, prototypes, or things that only work on my machine.
-
-## ⚡ Fun Fact
-If undefined behavior had a fan club, I'd probably be president.
+## What To Expect 🫨
+**Random Apps**, **Scripts**, **CLI Tools** and other unfinished stuff.
 
 ---
 
-> “Undefined behavior is just a suggestion.” — Probably Me
-> 
-> "Yes this was partially made by copilot." 
-
+> An Idiot Admires Complexity WHile A Genius Admires Simplicity.
+>
+> If Your Code Barely Seg Faults, Then Your Doing Something Wrong
 
