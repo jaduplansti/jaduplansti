@@ -16,7 +16,7 @@ Im a aspiring **software developer** and **security researcher**.
 **Actively developing these skills through projects and research.**
 
 ## What To Expect 🫨
-**Random Apps**, **Scripts**, **CLI Tools** and other unfinished stuff.
+**Random Apps**, **Scripts**, **CLI Tools** and other experimental stuff.
 
 ---
 
