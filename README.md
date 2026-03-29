@@ -13,7 +13,7 @@ Im a aspiring **software developer** and **security researcher**.
 - Digital Forensics
 - Undefined Behavior & Seg Faults
 
-These are the skills i've learnt so far, to a certain degree.
+**Actively developing these skills through projects and research.**
 
 ## What To Expect 🫨
 **Random Apps**, **Scripts**, **CLI Tools** and other unfinished stuff.
